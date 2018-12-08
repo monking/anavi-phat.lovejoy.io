@@ -1,0 +1,3 @@
+[submodule "examples/anavi-examples.git"]
+	path = examples/anavi-examples
+	url = git@github.com:AnaviTechnology/anavi-examples.git
